@@ -1,0 +1,94 @@
+.h {
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 86px;
+    left: 160px;
+    top: 27px;
+    background: rgb(255, 255, 255);
+    mix-blend-mode: normal;
+    opacity: 1.2;
+    border: 1px solid rgb(229, 143, 143);
+}
+.page {
+    margin: 0;
+    font-size: 10px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(247, 194, 194);
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sub {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+    min-height: 89px;
+}
+.link {
+    align-items: center;
+    display: flex;
+    padding: 0 30px;
+}
+.h-pag {
+    background-color: rgb(252, 185, 185);
+    font-size: 38px;
+ }
+ .p-content {
+    background-color: rgb(0, 0, 0);
+}
+.p-center{
+    background-color: rgb(212, 134, 134);
+}
+.item:hover {
+    background-color: rgb(252, 197, 197);
+}
+.f {
+    box-sizing: border-box;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 86px;
+    left: 160px;
+    top: 27px;
+    background: rgb(255, 255, 255);
+    mix-blend-mode: normal;
+    opacity: 1.2;
+    border: 1px solid rgb(229, 143, 143);
+}
+.p {
+    background-color: rgb(255, 203, 203);
+    color: black;
+}
+h1 {
+    background-color: rgb(255, 180, 180);
+    color: rgb(0, 0, 0);
+}
+h2 {
+    color: rgb(0, 0, 0);
+    background-color: lightpink;
+}
+.bluda {
+    background-color: rgb(248, 237, 199);
+}
+.vid {
+    background-color: rgb(248, 237, 199);
+}
+.onas {
+    background-color: rgb(248, 237, 199);
+}
